@@ -7,7 +7,7 @@ This script initializes your new OS X install.
 To run this script, open the `Terminal` Application, and paste the following:
 
 ```
-curl https://raw.github.com/pemsher/osx-init/main/install_automate.sh | bash
+curl https://raw.githubusercontent.com/pemsher/osx-init/main/install_automate.sh | bash
 ```
 
 ## Programs Installed:
