@@ -6,11 +6,14 @@ cd ~/Downloads
 # Install Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+# Install Amethyst - window organizer
+brew install --cask amethyst
+
 # Download iTerm2
 brew cask install iterm2
 
 # Download Microsoft Teams
-brew cask install microsoft-teams
+# brew cask install microsoft-teams
 
 # Install Microsoft Visual Studio Code
 brew cask install mscode-ide
