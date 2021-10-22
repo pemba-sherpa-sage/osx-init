@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Go to the Downloads folder
 cd ~/Downloads
