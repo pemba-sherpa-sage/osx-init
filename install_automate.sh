@@ -4,10 +4,13 @@
 cd ~/Downloads
 
 # Install Homebrew
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+#/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+/usr/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 
 # Install Amethyst - window organizer
-brew install --cask amethyst
+#brew install --cask amethyst
 
 # Download iTerm2
 brew cask install iterm2
