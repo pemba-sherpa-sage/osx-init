@@ -10,16 +10,19 @@ cd ~/Downloads
 
 
 # Install Amethyst - window organizer
-#brew install --cask amethyst
+brew install --cask amethyst
 
 # Download iTerm2
-brew cask install iterm2
+brew install --cask iterm2
 
 # Download Microsoft Teams
-# brew cask install microsoft-teams
+# brew install --cask microsoft-teams
 
 # Install Microsoft Visual Studio Code
-brew cask install mscode-ide
+brew install --cask visual-studio-code
+
+# Install slack
+brew install --cask slack
 
 # Install Postman
 brew cask install postman
